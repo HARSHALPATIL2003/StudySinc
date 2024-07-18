@@ -1,0 +1,2 @@
+# StudySinc
+StudySinc Web page
